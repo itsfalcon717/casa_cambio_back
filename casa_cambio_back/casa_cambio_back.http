@@ -1,0 +1,6 @@
+@casa_cambio_back_HostAddress = http://localhost:5143
+
+GET {{casa_cambio_back_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
