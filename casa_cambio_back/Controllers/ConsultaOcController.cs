@@ -17,18 +17,18 @@ namespace GestionProvedores.Controllers
             _httpApisService = httpApisService;
         }
 
-        [ProducesResponseType(typeof(TokenResponseDto), StatusCodes.Status200OK)]
-        [ProducesResponseType(typeof(TokenResponseDto), StatusCodes.Status401Unauthorized)]
-        [Produces("application/json")]
-        [Consumes("application/json")]
-        [HttpPost("filtra")]
-        public async Task<ResponseDto> Post()
-        {
-            StreamReader reader = new StreamReader(Request.Body, Encoding.UTF8);
-            string content = reader.ReadToEndAsync().Result.ToString();
-            var result = await this._httpApisService.consultaOrdenCompra(content);
-            return result;
-        }
+        //[ProducesResponseType(typeof(TokenResponseDto), StatusCodes.Status200OK)]
+        //[ProducesResponseType(typeof(TokenResponseDto), StatusCodes.Status401Unauthorized)]
+        //[Produces("application/json")]
+        //[Consumes("application/json")]
+        //[HttpPost("filtra")]
+        //public async Task<ResponseDto> Post()
+        //{
+        //    StreamReader reader = new StreamReader(Request.Body, Encoding.UTF8);
+        //    string content = reader.ReadToEndAsync().Result.ToString();
+        //    var result = await this._httpApisService.consultaOrdenCompra(content);
+        //    return result;
+        //}
 
     }
 }

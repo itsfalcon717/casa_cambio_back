@@ -34,8 +34,8 @@ namespace GestionProvedores.Repositories.Impl
                 command.CommandText = "sp_validarUsuario";
                 command.CommandType = System.Data.CommandType.StoredProcedure;
 
-                command.Parameters.Add(new SqlParameter("@usuario", body.username));
-                command.Parameters.Add(new SqlParameter("@clave", body.password));
+                command.Parameters.Add(new SqlParameter("@p_usuario", body.username));
+                command.Parameters.Add(new SqlParameter("@p_clave", body.password));
                 command.Parameters.Add(new SqlParameter("@p_idioma", _headerService.obtenerIdioma()));
 
                 _context.Database.OpenConnection();

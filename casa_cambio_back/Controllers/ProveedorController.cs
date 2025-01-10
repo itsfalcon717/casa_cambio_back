@@ -23,90 +23,90 @@ namespace GestionProvedores.Controllers
             _httpErpService = httpErpService;
         }
 
-        [ProducesResponseType(typeof(TokenResponseDto), StatusCodes.Status200OK)]
-        [ProducesResponseType(typeof(TokenResponseDto), StatusCodes.Status401Unauthorized)]
-        [Produces("application/json")]
-        [Consumes("application/json")]
-        [HttpPost("crear")]
-        public async Task<ResponseDto> crear()
-        {
-            StreamReader reader = new StreamReader(Request.Body, Encoding.UTF8);
-            string content = reader.ReadToEndAsync().Result.ToString();
-            var result = await this._proveedorService.crearAsync(content);
-            return result;
-        }
+        //[ProducesResponseType(typeof(TokenResponseDto), StatusCodes.Status200OK)]
+        //[ProducesResponseType(typeof(TokenResponseDto), StatusCodes.Status401Unauthorized)]
+        //[Produces("application/json")]
+        //[Consumes("application/json")]
+        //[HttpPost("crear")]
+        //public async Task<ResponseDto> crear()
+        //{
+        //    StreamReader reader = new StreamReader(Request.Body, Encoding.UTF8);
+        //    string content = reader.ReadToEndAsync().Result.ToString();
+        //    var result = await this._proveedorService.crearAsync(content);
+        //    return result;
+        //}
 
 
-        [ProducesResponseType(typeof(TokenResponseDto), StatusCodes.Status200OK)]
-        [ProducesResponseType(typeof(TokenResponseDto), StatusCodes.Status401Unauthorized)]
-        [Produces("application/json")]
-        [Consumes("application/json")]
-        [HttpPut("actualizar")]
-        public ActionResult<ResponseDto> actualizar()
-        {
-            StreamReader reader = new StreamReader(Request.Body, Encoding.UTF8);
-            string content = reader.ReadToEndAsync().Result.ToString();
-            return this._proveedorService.actualizar(content);
-        }
+        //[ProducesResponseType(typeof(TokenResponseDto), StatusCodes.Status200OK)]
+        //[ProducesResponseType(typeof(TokenResponseDto), StatusCodes.Status401Unauthorized)]
+        //[Produces("application/json")]
+        //[Consumes("application/json")]
+        //[HttpPut("actualizar")]
+        //public ActionResult<ResponseDto> actualizar()
+        //{
+        //    StreamReader reader = new StreamReader(Request.Body, Encoding.UTF8);
+        //    string content = reader.ReadToEndAsync().Result.ToString();
+        //    return this._proveedorService.actualizar(content);
+        //}
 
 
-        [ProducesResponseType(typeof(TokenResponseDto), StatusCodes.Status200OK)]
-        [ProducesResponseType(typeof(TokenResponseDto), StatusCodes.Status401Unauthorized)]
-        [Produces("application/json")]
-        [Consumes("application/json")]
-        [HttpPost("listar")]
-        public ActionResult<ResponseDto> listar()
-        {
-            StreamReader reader = new StreamReader(Request.Body, Encoding.UTF8);
-            string content = reader.ReadToEndAsync().Result.ToString();
-            return this._proveedorService.listar(content);
-        }
+        //[ProducesResponseType(typeof(TokenResponseDto), StatusCodes.Status200OK)]
+        //[ProducesResponseType(typeof(TokenResponseDto), StatusCodes.Status401Unauthorized)]
+        //[Produces("application/json")]
+        //[Consumes("application/json")]
+        //[HttpPost("listar")]
+        //public ActionResult<ResponseDto> listar()
+        //{
+        //    StreamReader reader = new StreamReader(Request.Body, Encoding.UTF8);
+        //    string content = reader.ReadToEndAsync().Result.ToString();
+        //    return this._proveedorService.listar(content);
+        //}
 
-        // [Authorize]
-        [Produces("application/json")]
-        [HttpGet("buscar/{id}")]
-        public ActionResult<ResponseDto> buscar([FromRoute] int id)
-        {
+        //// [Authorize]
+        //[Produces("application/json")]
+        //[HttpGet("buscar/{id}")]
+        //public ActionResult<ResponseDto> buscar([FromRoute] int id)
+        //{
 
-            return this._proveedorService.buscar("{\"id\":" + id + "}");
-        }
-
-
-        [ProducesResponseType(typeof(TokenResponseDto), StatusCodes.Status200OK)]
-        [ProducesResponseType(typeof(TokenResponseDto), StatusCodes.Status401Unauthorized)]
-        [Produces("application/json")]
-        [Consumes("application/json")]
-        [HttpPut("aprobar")]
-        public ActionResult<ResponseDto> aprobar()
-        {
-            StreamReader reader = new StreamReader(Request.Body, Encoding.UTF8);
-            string content = reader.ReadToEndAsync().Result.ToString();
-            return this._proveedorService.aprobar(content);
-        }
+        //    return this._proveedorService.buscar("{\"id\":" + id + "}");
+        //}
 
 
-        // [Authorize]
-        [Produces("application/json")]
-        [HttpGet("subsanacion/{id}")]
-        public ActionResult<ResponseDto> subsanacion([FromRoute] int id)
-        {
+        //[ProducesResponseType(typeof(TokenResponseDto), StatusCodes.Status200OK)]
+        //[ProducesResponseType(typeof(TokenResponseDto), StatusCodes.Status401Unauthorized)]
+        //[Produces("application/json")]
+        //[Consumes("application/json")]
+        //[HttpPut("aprobar")]
+        //public ActionResult<ResponseDto> aprobar()
+        //{
+        //    StreamReader reader = new StreamReader(Request.Body, Encoding.UTF8);
+        //    string content = reader.ReadToEndAsync().Result.ToString();
+        //    return this._proveedorService.aprobar(content);
+        //}
 
-            return this._proveedorService.buscar("{\"id\":" + id + "}");
-        }
+
+        //// [Authorize]
+        //[Produces("application/json")]
+        //[HttpGet("subsanacion/{id}")]
+        //public ActionResult<ResponseDto> subsanacion([FromRoute] int id)
+        //{
+
+        //    return this._proveedorService.buscar("{\"id\":" + id + "}");
+        //}
 
 
 
-        [Produces("application/json")]
-        [HttpGet("erp/{id}")]
-        public async Task<object> erp([FromRoute] int id)
-        {
-            var pro=_proveedorService.buscarErp("{\"id\":" + id + "}");
+        //[Produces("application/json")]
+        //[HttpGet("erp/{id}")]
+        //public async Task<object> erp([FromRoute] int id)
+        //{
+        //    var pro=_proveedorService.buscarErp("{\"id\":" + id + "}");
 
-            Dictionary<string, object> data = pro.data as Dictionary<string, object>;
-            string token = await _httpErpService.registrar(data);
-            pro.message = token;
-            return pro;
-        }
+        //    Dictionary<string, object> data = pro.data as Dictionary<string, object>;
+        //    string token = await _httpErpService.registrar(data);
+        //    pro.message = token;
+        //    return pro;
+        //}
 
     }
 }

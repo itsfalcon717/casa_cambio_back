@@ -25,241 +25,241 @@ namespace GestionProvedores.Controllers
         }
 
         //[Authorize]
-        [Produces("application/json")]
-        [HttpGet("listarPaises")]
-        public ActionResult<ResponseDto> listarPaises()
-        {
+        //[Produces("application/json")]
+        //[HttpGet("listarPaises")]
+        //public ActionResult<ResponseDto> listarPaises()
+        //{
 
-            return this._masterService.listar("{\"cod\":0}");
-        }
-
-
-        // [Authorize]
-        [Produces("application/json")]
-        [HttpGet("listarRegion")]
-        public ActionResult<ResponseDto> listarRegiones()
-        {
-
-            return this._masterService.listar("{\"cod\":1}");
-        }
+        //    return this._masterService.listar("{\"cod\":0}");
+        //}
 
 
-        // [Authorize]
-        [Produces("application/json")]
-        [HttpGet("listarProvincia/{id}")]
-        public ActionResult<ResponseDto> listarProvincia([FromRoute] int id)
-        {
+        //// [Authorize]
+        //[Produces("application/json")]
+        //[HttpGet("listarRegion")]
+        //public ActionResult<ResponseDto> listarRegiones()
+        //{
 
-            return this._masterService.listar("{\"cod\":2,\"id\":" + id + "}");
-        }
-
-        // [Authorize]
-        [Produces("application/json")]
-        [HttpGet("listarDistrito/{id}")]
-        public ActionResult<ResponseDto> listarDistrito([FromRoute] int id)
-        {
-
-            return this._masterService.listar("{\"cod\":3,\"id\":" + id + "}");
-        }
+        //    return this._masterService.listar("{\"cod\":1}");
+        //}
 
 
-        //[Authorize]
-        [Produces("application/json")]
-        [HttpGet("listarGiroNegocio/{id}")]
-        public ActionResult<ResponseDto> listarGiroNegocio([FromRoute] int id)
-        {
+        //// [Authorize]
+        //[Produces("application/json")]
+        //[HttpGet("listarProvincia/{id}")]
+        //public ActionResult<ResponseDto> listarProvincia([FromRoute] int id)
+        //{
 
-            return this._masterService.listar("{\"cod\":4,\"id\":" + id + "}");
-        }
+        //    return this._masterService.listar("{\"cod\":2,\"id\":" + id + "}");
+        //}
 
-        //[Authorize]
-        [Produces("application/json")]
-        [HttpGet("listarTipoPersona")]
-        public ActionResult<ResponseDto> listarTipoPersona()
-        {
+        //// [Authorize]
+        //[Produces("application/json")]
+        //[HttpGet("listarDistrito/{id}")]
+        //public ActionResult<ResponseDto> listarDistrito([FromRoute] int id)
+        //{
 
-            return this._masterService.listar("{\"cod\":5}");
-        }
-
-
-        //[Authorize]
-        [Produces("application/json")]
-        [HttpGet("listarCategoriaProveedor")]
-        public ActionResult<ResponseDto> listarCategoriaProveedor()
-        {
-
-            return this._masterService.listar("{\"cod\":6}");
-        }
+        //    return this._masterService.listar("{\"cod\":3,\"id\":" + id + "}");
+        //}
 
 
-        //[Authorize]
-        [Produces("application/json")]
-        [HttpGet("listarEstadoProveedor")]
-        public ActionResult<ResponseDto> listarEstadoProveedor()
-        {
+        ////[Authorize]
+        //[Produces("application/json")]
+        //[HttpGet("listarGiroNegocio/{id}")]
+        //public ActionResult<ResponseDto> listarGiroNegocio([FromRoute] int id)
+        //{
 
-            return this._masterService.listar("{\"cod\":7}");
-        }
+        //    return this._masterService.listar("{\"cod\":4,\"id\":" + id + "}");
+        //}
 
-        //[Authorize]
-        [Produces("application/json")]
-        [HttpGet("listarTipoProveedor")]
-        public ActionResult<ResponseDto> listarTipoProveedor()
-        {
+        ////[Authorize]
+        //[Produces("application/json")]
+        //[HttpGet("listarTipoPersona")]
+        //public ActionResult<ResponseDto> listarTipoPersona()
+        //{
 
-            return this._masterService.listar("{\"cod\":8}");
-        }
-
-        //[Authorize]
-        [Produces("application/json")]
-        [HttpGet("listarRamaNegocio/{id}")]
-        public ActionResult<ResponseDto> listarRamaNegocio([FromRoute] int ? id)
-        {
-
-            return this._masterService.listar("{\"cod\":9,\"id\":" + id + "}");
-        }
-
-        //[Authorize]
-        [Produces("application/json")]
-        [HttpGet("listarTipoCliente")]
-        public ActionResult<ResponseDto> listarTipoCliente()
-        {
-
-            return this._masterService.listar("{\"cod\":10}");
-        }
+        //    return this._masterService.listar("{\"cod\":5}");
+        //}
 
 
-        //[Authorize]
-        [Produces("application/json")]
-        [HttpGet("listarTipoContribuyente")]
-        public ActionResult<ResponseDto> listarTipoContribuyente()
-        {
+        ////[Authorize]
+        //[Produces("application/json")]
+        //[HttpGet("listarCategoriaProveedor")]
+        //public ActionResult<ResponseDto> listarCategoriaProveedor()
+        //{
 
-            return this._masterService.listar("{\"cod\":11}");
-        }
-
-        //[Authorize]
-        [Produces("application/json")]
-        [HttpGet("listarTipoCuenta")]
-        public ActionResult<ResponseDto> listarTipoCuenta()
-        {
-
-            return this._masterService.listar("{\"cod\":12}");
-        }
-
-        //[Authorize]
-        [Produces("application/json")]
-        [HttpGet("listarTipoDocumento")]
-        public ActionResult<ResponseDto> listarTipoDocumento()
-        {
-
-            return this._masterService.listar("{\"cod\":13}");
-        }
+        //    return this._masterService.listar("{\"cod\":6}");
+        //}
 
 
-        //[Authorize]
-        [Produces("application/json")]
-        [HttpGet("listarTipoMoneda/{id}")]
-        public ActionResult<ResponseDto> listarTipoMoneda([FromRoute] int ? id)
-        {
-            return this._masterService.listar("{\"cod\":14,\"id\":" + id + "}");
-        }
+        ////[Authorize]
+        //[Produces("application/json")]
+        //[HttpGet("listarEstadoProveedor")]
+        //public ActionResult<ResponseDto> listarEstadoProveedor()
+        //{
+
+        //    return this._masterService.listar("{\"cod\":7}");
+        //}
+
+        ////[Authorize]
+        //[Produces("application/json")]
+        //[HttpGet("listarTipoProveedor")]
+        //public ActionResult<ResponseDto> listarTipoProveedor()
+        //{
+
+        //    return this._masterService.listar("{\"cod\":8}");
+        //}
+
+        ////[Authorize]
+        //[Produces("application/json")]
+        //[HttpGet("listarRamaNegocio/{id}")]
+        //public ActionResult<ResponseDto> listarRamaNegocio([FromRoute] int ? id)
+        //{
+
+        //    return this._masterService.listar("{\"cod\":9,\"id\":" + id + "}");
+        //}
+
+        ////[Authorize]
+        //[Produces("application/json")]
+        //[HttpGet("listarTipoCliente")]
+        //public ActionResult<ResponseDto> listarTipoCliente()
+        //{
+
+        //    return this._masterService.listar("{\"cod\":10}");
+        //}
 
 
-        //[Authorize]
-        [Produces("application/json")]
-        [HttpGet("listarTipoUbicacion")]
-        public ActionResult<ResponseDto> listarTipoUbicacion()
-        {
+        ////[Authorize]
+        //[Produces("application/json")]
+        //[HttpGet("listarTipoContribuyente")]
+        //public ActionResult<ResponseDto> listarTipoContribuyente()
+        //{
 
-            return this._masterService.listar("{\"cod\":15}");
-        }
+        //    return this._masterService.listar("{\"cod\":11}");
+        //}
 
-        //[Authorize]
-        [Produces("application/json")]
-        [HttpGet("listarOperacionesAfectadas")]
-        public ActionResult<ResponseDto> listarOperacionesAfectadas()
-        {
+        ////[Authorize]
+        //[Produces("application/json")]
+        //[HttpGet("listarTipoCuenta")]
+        //public ActionResult<ResponseDto> listarTipoCuenta()
+        //{
 
-            return this._masterService.listar("{\"cod\":16}");
-        }
+        //    return this._masterService.listar("{\"cod\":12}");
+        //}
+
+        ////[Authorize]
+        //[Produces("application/json")]
+        //[HttpGet("listarTipoDocumento")]
+        //public ActionResult<ResponseDto> listarTipoDocumento()
+        //{
+
+        //    return this._masterService.listar("{\"cod\":13}");
+        //}
+
+
+        ////[Authorize]
+        //[Produces("application/json")]
+        //[HttpGet("listarTipoMoneda/{id}")]
+        //public ActionResult<ResponseDto> listarTipoMoneda([FromRoute] int ? id)
+        //{
+        //    return this._masterService.listar("{\"cod\":14,\"id\":" + id + "}");
+        //}
+
+
+        ////[Authorize]
+        //[Produces("application/json")]
+        //[HttpGet("listarTipoUbicacion")]
+        //public ActionResult<ResponseDto> listarTipoUbicacion()
+        //{
+
+        //    return this._masterService.listar("{\"cod\":15}");
+        //}
+
+        ////[Authorize]
+        //[Produces("application/json")]
+        //[HttpGet("listarOperacionesAfectadas")]
+        //public ActionResult<ResponseDto> listarOperacionesAfectadas()
+        //{
+
+        //    return this._masterService.listar("{\"cod\":16}");
+        //}
 
  
 
 
-        //[Authorize]
-        [Produces("application/json")]
-        [HttpGet("listarCondicionPago")]
-        public ActionResult<ResponseDto> listarCondicionPago()
-        {
+        ////[Authorize]
+        //[Produces("application/json")]
+        //[HttpGet("listarCondicionPago")]
+        //public ActionResult<ResponseDto> listarCondicionPago()
+        //{
 
-            return this._masterService.listar("{\"cod\":17}");
-        }
-
-
-        //[Authorize]
-        [Produces("application/json")]
-        [HttpGet("listarTipoComprobante/{id}")]
-        public ActionResult<ResponseDto> listarTipoComprobante([FromRoute] int ? id)
-        {
-            return this._masterService.listar("{\"cod\":18,\"id\":" + id + "}");
-        }
+        //    return this._masterService.listar("{\"cod\":17}");
+        //}
 
 
-        //[Authorize]
-        [Produces("application/json")]
-        [HttpGet("listarEntidadBancaria")]
-        public ActionResult<ResponseDto> listarEntidadBancaria()
-        {
-
-            return this._masterService.listar("{\"cod\":19}");
-        }
-
-
-        //[Authorize]
-        [Produces("application/json")]
-        [HttpGet("listarEmpresa")]
-        public ActionResult<ResponseDto> listarEmpresa()
-        {
-
-            return this._masterService.listar("{\"cod\":20}");
-        }
+        ////[Authorize]
+        //[Produces("application/json")]
+        //[HttpGet("listarTipoComprobante/{id}")]
+        //public ActionResult<ResponseDto> listarTipoComprobante([FromRoute] int ? id)
+        //{
+        //    return this._masterService.listar("{\"cod\":18,\"id\":" + id + "}");
+        //}
 
 
-        //[Authorize]
-        [Produces("application/json")]
-        [HttpGet("listarTipoCalle")]
-        public ActionResult<ResponseDto> listarTipoCalle()
-        {
+        ////[Authorize]
+        //[Produces("application/json")]
+        //[HttpGet("listarEntidadBancaria")]
+        //public ActionResult<ResponseDto> listarEntidadBancaria()
+        //{
 
-            return this._masterService.listar("{\"cod\":21}");
-        }
+        //    return this._masterService.listar("{\"cod\":19}");
+        //}
 
-        //[Authorize]
-        [Produces("application/json")]
-        [HttpGet("listarTipoDireccion")]
-        public ActionResult<ResponseDto> listarTipoDireccion()
-        {
 
-            return this._masterService.listar("{\"cod\":22}");
-        }
+        ////[Authorize]
+        //[Produces("application/json")]
+        //[HttpGet("listarEmpresa")]
+        //public ActionResult<ResponseDto> listarEmpresa()
+        //{
 
-        //[Authorize]
-        [Produces("application/json")]
-        [HttpGet("listarTipoZona")]
-        public ActionResult<ResponseDto> listarTipoZona()
-        {
+        //    return this._masterService.listar("{\"cod\":20}");
+        //}
 
-            return this._masterService.listar("{\"cod\":23}");
-        }
 
-        //[Authorize]
-        [Produces("application/json")]
-        [HttpGet("listarZona")]
-        public ActionResult<ResponseDto> listarZona()
-        {
+        ////[Authorize]
+        //[Produces("application/json")]
+        //[HttpGet("listarTipoCalle")]
+        //public ActionResult<ResponseDto> listarTipoCalle()
+        //{
 
-            return this._masterService.listar("{\"cod\":24}");
-        }
+        //    return this._masterService.listar("{\"cod\":21}");
+        //}
+
+        ////[Authorize]
+        //[Produces("application/json")]
+        //[HttpGet("listarTipoDireccion")]
+        //public ActionResult<ResponseDto> listarTipoDireccion()
+        //{
+
+        //    return this._masterService.listar("{\"cod\":22}");
+        //}
+
+        ////[Authorize]
+        //[Produces("application/json")]
+        //[HttpGet("listarTipoZona")]
+        //public ActionResult<ResponseDto> listarTipoZona()
+        //{
+
+        //    return this._masterService.listar("{\"cod\":23}");
+        //}
+
+        ////[Authorize]
+        //[Produces("application/json")]
+        //[HttpGet("listarZona")]
+        //public ActionResult<ResponseDto> listarZona()
+        //{
+
+        //    return this._masterService.listar("{\"cod\":24}");
+        //}
     }
 }

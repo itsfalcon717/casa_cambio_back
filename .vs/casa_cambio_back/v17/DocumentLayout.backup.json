@@ -3,16 +3,160 @@
   "WorkspaceRootPath": "F:\\proyectos\\casa_cambio_back\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{98F16DB3-E828-4ACF-B4BB-21F99B4FB7DA}|casa_cambio_back\\casa_cambio_back.csproj|f:\\proyectos\\casa_cambio_back\\casa_cambio_back\\repositories\\impl\\perfilrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98F16DB3-E828-4ACF-B4BB-21F99B4FB7DA}|casa_cambio_back\\casa_cambio_back.csproj|solutionrelative:casa_cambio_back\\repositories\\impl\\perfilrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F16DB3-E828-4ACF-B4BB-21F99B4FB7DA}|casa_cambio_back\\casa_cambio_back.csproj|f:\\proyectos\\casa_cambio_back\\casa_cambio_back\\controllers\\perfilcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98F16DB3-E828-4ACF-B4BB-21F99B4FB7DA}|casa_cambio_back\\casa_cambio_back.csproj|solutionrelative:casa_cambio_back\\controllers\\perfilcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F16DB3-E828-4ACF-B4BB-21F99B4FB7DA}|casa_cambio_back\\casa_cambio_back.csproj|f:\\proyectos\\casa_cambio_back\\casa_cambio_back\\controllers\\mastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98F16DB3-E828-4ACF-B4BB-21F99B4FB7DA}|casa_cambio_back\\casa_cambio_back.csproj|solutionrelative:casa_cambio_back\\controllers\\mastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F16DB3-E828-4ACF-B4BB-21F99B4FB7DA}|casa_cambio_back\\casa_cambio_back.csproj|f:\\proyectos\\casa_cambio_back\\casa_cambio_back\\controllers\\encuestacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98F16DB3-E828-4ACF-B4BB-21F99B4FB7DA}|casa_cambio_back\\casa_cambio_back.csproj|solutionrelative:casa_cambio_back\\controllers\\encuestacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F16DB3-E828-4ACF-B4BB-21F99B4FB7DA}|casa_cambio_back\\casa_cambio_back.csproj|f:\\proyectos\\casa_cambio_back\\casa_cambio_back\\controllers\\ubicacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98F16DB3-E828-4ACF-B4BB-21F99B4FB7DA}|casa_cambio_back\\casa_cambio_back.csproj|solutionrelative:casa_cambio_back\\controllers\\ubicacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F16DB3-E828-4ACF-B4BB-21F99B4FB7DA}|casa_cambio_back\\casa_cambio_back.csproj|f:\\proyectos\\casa_cambio_back\\casa_cambio_back\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98F16DB3-E828-4ACF-B4BB-21F99B4FB7DA}|casa_cambio_back\\casa_cambio_back.csproj|solutionrelative:casa_cambio_back\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{98F16DB3-E828-4ACF-B4BB-21F99B4FB7DA}|casa_cambio_back\\casa_cambio_back.csproj|f:\\proyectos\\casa_cambio_back\\casa_cambio_back\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{98F16DB3-E828-4ACF-B4BB-21F99B4FB7DA}|casa_cambio_back\\casa_cambio_back.csproj|solutionrelative:casa_cambio_back\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F16DB3-E828-4ACF-B4BB-21F99B4FB7DA}|casa_cambio_back\\casa_cambio_back.csproj|f:\\proyectos\\casa_cambio_back\\casa_cambio_back\\controllers\\proveedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98F16DB3-E828-4ACF-B4BB-21F99B4FB7DA}|casa_cambio_back\\casa_cambio_back.csproj|solutionrelative:casa_cambio_back\\controllers\\proveedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F16DB3-E828-4ACF-B4BB-21F99B4FB7DA}|casa_cambio_back\\casa_cambio_back.csproj|f:\\proyectos\\casa_cambio_back\\casa_cambio_back\\controllers\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98F16DB3-E828-4ACF-B4BB-21F99B4FB7DA}|casa_cambio_back\\casa_cambio_back.csproj|solutionrelative:casa_cambio_back\\controllers\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F16DB3-E828-4ACF-B4BB-21F99B4FB7DA}|casa_cambio_back\\casa_cambio_back.csproj|f:\\proyectos\\casa_cambio_back\\casa_cambio_back\\controllers\\marcacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98F16DB3-E828-4ACF-B4BB-21F99B4FB7DA}|casa_cambio_back\\casa_cambio_back.csproj|solutionrelative:casa_cambio_back\\controllers\\marcacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F16DB3-E828-4ACF-B4BB-21F99B4FB7DA}|casa_cambio_back\\casa_cambio_back.csproj|f:\\proyectos\\casa_cambio_back\\casa_cambio_back\\controllers\\cuentacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98F16DB3-E828-4ACF-B4BB-21F99B4FB7DA}|casa_cambio_back\\casa_cambio_back.csproj|solutionrelative:casa_cambio_back\\controllers\\cuentacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F16DB3-E828-4ACF-B4BB-21F99B4FB7DA}|casa_cambio_back\\casa_cambio_back.csproj|f:\\proyectos\\casa_cambio_back\\casa_cambio_back\\controllers\\correocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98F16DB3-E828-4ACF-B4BB-21F99B4FB7DA}|casa_cambio_back\\casa_cambio_back.csproj|solutionrelative:casa_cambio_back\\controllers\\correocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F16DB3-E828-4ACF-B4BB-21F99B4FB7DA}|casa_cambio_back\\casa_cambio_back.csproj|f:\\proyectos\\casa_cambio_back\\casa_cambio_back\\controllers\\consultaoccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98F16DB3-E828-4ACF-B4BB-21F99B4FB7DA}|casa_cambio_back\\casa_cambio_back.csproj|solutionrelative:casa_cambio_back\\controllers\\consultaoccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F16DB3-E828-4ACF-B4BB-21F99B4FB7DA}|casa_cambio_back\\casa_cambio_back.csproj|f:\\proyectos\\casa_cambio_back\\casa_cambio_back\\controllers\\consultacomprobantecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98F16DB3-E828-4ACF-B4BB-21F99B4FB7DA}|casa_cambio_back\\casa_cambio_back.csproj|solutionrelative:casa_cambio_back\\controllers\\consultacomprobantecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F16DB3-E828-4ACF-B4BB-21F99B4FB7DA}|casa_cambio_back\\casa_cambio_back.csproj|f:\\proyectos\\casa_cambio_back\\casa_cambio_back\\controllers\\catalogocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98F16DB3-E828-4ACF-B4BB-21F99B4FB7DA}|casa_cambio_back\\casa_cambio_back.csproj|solutionrelative:casa_cambio_back\\controllers\\catalogocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F16DB3-E828-4ACF-B4BB-21F99B4FB7DA}|casa_cambio_back\\casa_cambio_back.csproj|f:\\proyectos\\casa_cambio_back\\casa_cambio_back\\config\\sqldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98F16DB3-E828-4ACF-B4BB-21F99B4FB7DA}|casa_cambio_back\\casa_cambio_back.csproj|solutionrelative:casa_cambio_back\\config\\sqldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F16DB3-E828-4ACF-B4BB-21F99B4FB7DA}|casa_cambio_back\\casa_cambio_back.csproj|f:\\proyectos\\casa_cambio_back\\casa_cambio_back\\repositories\\impl\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98F16DB3-E828-4ACF-B4BB-21F99B4FB7DA}|casa_cambio_back\\casa_cambio_back.csproj|solutionrelative:casa_cambio_back\\repositories\\impl\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F16DB3-E828-4ACF-B4BB-21F99B4FB7DA}|casa_cambio_back\\casa_cambio_back.csproj|f:\\proyectos\\casa_cambio_back\\casa_cambio_back\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{98F16DB3-E828-4ACF-B4BB-21F99B4FB7DA}|casa_cambio_back\\casa_cambio_back.csproj|solutionrelative:casa_cambio_back\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F16DB3-E828-4ACF-B4BB-21F99B4FB7DA}|casa_cambio_back\\casa_cambio_back.csproj|f:\\proyectos\\casa_cambio_back\\casa_cambio_back\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{98F16DB3-E828-4ACF-B4BB-21F99B4FB7DA}|casa_cambio_back\\casa_cambio_back.csproj|solutionrelative:casa_cambio_back\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F16DB3-E828-4ACF-B4BB-21F99B4FB7DA}|casa_cambio_back\\casa_cambio_back.csproj|f:\\proyectos\\casa_cambio_back\\casa_cambio_back\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{98F16DB3-E828-4ACF-B4BB-21F99B4FB7DA}|casa_cambio_back\\casa_cambio_back.csproj|solutionrelative:casa_cambio_back\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F16DB3-E828-4ACF-B4BB-21F99B4FB7DA}|casa_cambio_back\\casa_cambio_back.csproj|f:\\proyectos\\casa_cambio_back\\casa_cambio_back\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98F16DB3-E828-4ACF-B4BB-21F99B4FB7DA}|casa_cambio_back\\casa_cambio_back.csproj|solutionrelative:casa_cambio_back\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{98F16DB3-E828-4ACF-B4BB-21F99B4FB7DA}|casa_cambio_back\\casa_cambio_back.csproj|f:\\proyectos\\casa_cambio_back\\casa_cambio_back\\casa_cambio_back.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{98F16DB3-E828-4ACF-B4BB-21F99B4FB7DA}|casa_cambio_back\\casa_cambio_back.csproj|solutionrelative:casa_cambio_back\\casa_cambio_back.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98F16DB3-E828-4ACF-B4BB-21F99B4FB7DA}|casa_cambio_back\\casa_cambio_back.csproj|f:\\proyectos\\casa_cambio_back\\casa_cambio_back\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98F16DB3-E828-4ACF-B4BB-21F99B4FB7DA}|casa_cambio_back\\casa_cambio_back.csproj|solutionrelative:casa_cambio_back\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{98F16DB3-E828-4ACF-B4BB-21F99B4FB7DA}|casa_cambio_back\\casa_cambio_back.csproj|f:\\proyectos\\casa_cambio_back\\casa_cambio_back\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{98F16DB3-E828-4ACF-B4BB-21F99B4FB7DA}|casa_cambio_back\\casa_cambio_back.csproj|solutionrelative:casa_cambio_back\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F16DB3-E828-4ACF-B4BB-21F99B4FB7DA}|casa_cambio_back\\casa_cambio_back.csproj|f:\\proyectos\\casa_cambio_back\\casa_cambio_back\\tempkey.jwk||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{98F16DB3-E828-4ACF-B4BB-21F99B4FB7DA}|casa_cambio_back\\casa_cambio_back.csproj|solutionrelative:casa_cambio_back\\tempkey.jwk||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F16DB3-E828-4ACF-B4BB-21F99B4FB7DA}|casa_cambio_back\\casa_cambio_back.csproj|f:\\proyectos\\casa_cambio_back\\casa_cambio_back\\util\\util.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98F16DB3-E828-4ACF-B4BB-21F99B4FB7DA}|casa_cambio_back\\casa_cambio_back.csproj|solutionrelative:casa_cambio_back\\util\\util.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F16DB3-E828-4ACF-B4BB-21F99B4FB7DA}|casa_cambio_back\\casa_cambio_back.csproj|f:\\proyectos\\casa_cambio_back\\casa_cambio_back\\appsettings.release.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{98F16DB3-E828-4ACF-B4BB-21F99B4FB7DA}|casa_cambio_back\\casa_cambio_back.csproj|solutionrelative:casa_cambio_back\\appsettings.release.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F16DB3-E828-4ACF-B4BB-21F99B4FB7DA}|casa_cambio_back\\casa_cambio_back.csproj|f:\\proyectos\\casa_cambio_back\\casa_cambio_back\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{98F16DB3-E828-4ACF-B4BB-21F99B4FB7DA}|casa_cambio_back\\casa_cambio_back.csproj|solutionrelative:casa_cambio_back\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F16DB3-E828-4ACF-B4BB-21F99B4FB7DA}|casa_cambio_back\\casa_cambio_back.csproj|f:\\proyectos\\casa_cambio_back\\casa_cambio_back\\repositories\\impl\\masterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98F16DB3-E828-4ACF-B4BB-21F99B4FB7DA}|casa_cambio_back\\casa_cambio_back.csproj|solutionrelative:casa_cambio_back\\repositories\\impl\\masterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F16DB3-E828-4ACF-B4BB-21F99B4FB7DA}|casa_cambio_back\\casa_cambio_back.csproj|f:\\proyectos\\casa_cambio_back\\casa_cambio_back\\casa_cambio_back.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{98F16DB3-E828-4ACF-B4BB-21F99B4FB7DA}|casa_cambio_back\\casa_cambio_back.csproj|solutionrelative:casa_cambio_back\\casa_cambio_back.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F16DB3-E828-4ACF-B4BB-21F99B4FB7DA}|casa_cambio_back\\casa_cambio_back.csproj|f:\\proyectos\\casa_cambio_back\\casa_cambio_back\\repositories\\impl\\encuestarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98F16DB3-E828-4ACF-B4BB-21F99B4FB7DA}|casa_cambio_back\\casa_cambio_back.csproj|solutionrelative:casa_cambio_back\\repositories\\impl\\encuestarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F16DB3-E828-4ACF-B4BB-21F99B4FB7DA}|casa_cambio_back\\casa_cambio_back.csproj|f:\\proyectos\\casa_cambio_back\\casa_cambio_back\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98F16DB3-E828-4ACF-B4BB-21F99B4FB7DA}|casa_cambio_back\\casa_cambio_back.csproj|solutionrelative:casa_cambio_back\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F16DB3-E828-4ACF-B4BB-21F99B4FB7DA}|casa_cambio_back\\casa_cambio_back.csproj|f:\\proyectos\\casa_cambio_back\\casa_cambio_back\\repositories\\impl\\personarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98F16DB3-E828-4ACF-B4BB-21F99B4FB7DA}|casa_cambio_back\\casa_cambio_back.csproj|solutionrelative:casa_cambio_back\\repositories\\impl\\personarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F16DB3-E828-4ACF-B4BB-21F99B4FB7DA}|casa_cambio_back\\casa_cambio_back.csproj|f:\\proyectos\\casa_cambio_back\\casa_cambio_back\\repositories\\impl\\ubicacionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98F16DB3-E828-4ACF-B4BB-21F99B4FB7DA}|casa_cambio_back\\casa_cambio_back.csproj|solutionrelative:casa_cambio_back\\repositories\\impl\\ubicacionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F16DB3-E828-4ACF-B4BB-21F99B4FB7DA}|casa_cambio_back\\casa_cambio_back.csproj|f:\\proyectos\\casa_cambio_back\\casa_cambio_back\\repositories\\impl\\proveedorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98F16DB3-E828-4ACF-B4BB-21F99B4FB7DA}|casa_cambio_back\\casa_cambio_back.csproj|solutionrelative:casa_cambio_back\\repositories\\impl\\proveedorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F16DB3-E828-4ACF-B4BB-21F99B4FB7DA}|casa_cambio_back\\casa_cambio_back.csproj|f:\\proyectos\\casa_cambio_back\\casa_cambio_back\\repositories\\impl\\marcarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98F16DB3-E828-4ACF-B4BB-21F99B4FB7DA}|casa_cambio_back\\casa_cambio_back.csproj|solutionrelative:casa_cambio_back\\repositories\\impl\\marcarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F16DB3-E828-4ACF-B4BB-21F99B4FB7DA}|casa_cambio_back\\casa_cambio_back.csproj|f:\\proyectos\\casa_cambio_back\\casa_cambio_back\\repositories\\impl\\descargarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98F16DB3-E828-4ACF-B4BB-21F99B4FB7DA}|casa_cambio_back\\casa_cambio_back.csproj|solutionrelative:casa_cambio_back\\repositories\\impl\\descargarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F16DB3-E828-4ACF-B4BB-21F99B4FB7DA}|casa_cambio_back\\casa_cambio_back.csproj|f:\\proyectos\\casa_cambio_back\\casa_cambio_back\\repositories\\impl\\cuentarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98F16DB3-E828-4ACF-B4BB-21F99B4FB7DA}|casa_cambio_back\\casa_cambio_back.csproj|solutionrelative:casa_cambio_back\\repositories\\impl\\cuentarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F16DB3-E828-4ACF-B4BB-21F99B4FB7DA}|casa_cambio_back\\casa_cambio_back.csproj|f:\\proyectos\\casa_cambio_back\\casa_cambio_back\\repositories\\impl\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98F16DB3-E828-4ACF-B4BB-21F99B4FB7DA}|casa_cambio_back\\casa_cambio_back.csproj|solutionrelative:casa_cambio_back\\repositories\\impl\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F16DB3-E828-4ACF-B4BB-21F99B4FB7DA}|casa_cambio_back\\casa_cambio_back.csproj|f:\\proyectos\\casa_cambio_back\\casa_cambio_back\\repositories\\impl\\catalogorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98F16DB3-E828-4ACF-B4BB-21F99B4FB7DA}|casa_cambio_back\\casa_cambio_back.csproj|solutionrelative:casa_cambio_back\\repositories\\impl\\catalogorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{98F16DB3-E828-4ACF-B4BB-21F99B4FB7DA}|casa_cambio_back\\casa_cambio_back.csproj|f:\\proyectos\\casa_cambio_back\\casa_cambio_back\\exceptions\\managerexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,26 +173,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{98F16DB3-E828-4ACF-B4BB-21F99B4FB7DA}|casa_cambio_back\\casa_cambio_back.csproj|f:\\proyectos\\casa_cambio_back\\casa_cambio_back\\dto\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{98F16DB3-E828-4ACF-B4BB-21F99B4FB7DA}|casa_cambio_back\\casa_cambio_back.csproj|solutionrelative:casa_cambio_back\\dto\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98F16DB3-E828-4ACF-B4BB-21F99B4FB7DA}|casa_cambio_back\\casa_cambio_back.csproj|f:\\proyectos\\casa_cambio_back\\casa_cambio_back\\dto\\loginbodydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98F16DB3-E828-4ACF-B4BB-21F99B4FB7DA}|casa_cambio_back\\casa_cambio_back.csproj|solutionrelative:casa_cambio_back\\dto\\loginbodydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98F16DB3-E828-4ACF-B4BB-21F99B4FB7DA}|casa_cambio_back\\casa_cambio_back.csproj|f:\\proyectos\\casa_cambio_back\\casa_cambio_back\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98F16DB3-E828-4ACF-B4BB-21F99B4FB7DA}|casa_cambio_back\\casa_cambio_back.csproj|solutionrelative:casa_cambio_back\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98F16DB3-E828-4ACF-B4BB-21F99B4FB7DA}|casa_cambio_back\\casa_cambio_back.csproj|f:\\proyectos\\casa_cambio_back\\casa_cambio_back\\controllers\\catalogocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98F16DB3-E828-4ACF-B4BB-21F99B4FB7DA}|casa_cambio_back\\casa_cambio_back.csproj|solutionrelative:casa_cambio_back\\controllers\\catalogocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98F16DB3-E828-4ACF-B4BB-21F99B4FB7DA}|casa_cambio_back\\casa_cambio_back.csproj|f:\\proyectos\\casa_cambio_back\\casa_cambio_back\\config\\sqldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98F16DB3-E828-4ACF-B4BB-21F99B4FB7DA}|casa_cambio_back\\casa_cambio_back.csproj|solutionrelative:casa_cambio_back\\config\\sqldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98F16DB3-E828-4ACF-B4BB-21F99B4FB7DA}|casa_cambio_back\\casa_cambio_back.csproj|f:\\proyectos\\casa_cambio_back\\casa_cambio_back\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{98F16DB3-E828-4ACF-B4BB-21F99B4FB7DA}|casa_cambio_back\\casa_cambio_back.csproj|solutionrelative:casa_cambio_back\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,50 +182,498 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
+              "Title": "ProveedorController.cs",
+              "DocumentMoniker": "F:\\proyectos\\casa_cambio_back\\casa_cambio_back\\Controllers\\ProveedorController.cs",
+              "RelativeDocumentMoniker": "casa_cambio_back\\Controllers\\ProveedorController.cs",
+              "ToolTip": "F:\\proyectos\\casa_cambio_back\\casa_cambio_back\\Controllers\\ProveedorController.cs",
+              "RelativeToolTip": "casa_cambio_back\\Controllers\\ProveedorController.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAmwGwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T19:20:53.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PersonaController.cs",
+              "DocumentMoniker": "F:\\proyectos\\casa_cambio_back\\casa_cambio_back\\Controllers\\PersonaController.cs",
+              "RelativeDocumentMoniker": "casa_cambio_back\\Controllers\\PersonaController.cs",
+              "ToolTip": "F:\\proyectos\\casa_cambio_back\\casa_cambio_back\\Controllers\\PersonaController.cs",
+              "RelativeToolTip": "casa_cambio_back\\Controllers\\PersonaController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwEAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T19:20:42.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PerfilController.cs",
+              "DocumentMoniker": "F:\\proyectos\\casa_cambio_back\\casa_cambio_back\\Controllers\\PerfilController.cs",
+              "RelativeDocumentMoniker": "casa_cambio_back\\Controllers\\PerfilController.cs",
+              "ToolTip": "F:\\proyectos\\casa_cambio_back\\casa_cambio_back\\Controllers\\PerfilController.cs",
+              "RelativeToolTip": "casa_cambio_back\\Controllers\\PerfilController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAA9wCgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T19:20:24.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MasterController.cs",
+              "DocumentMoniker": "F:\\proyectos\\casa_cambio_back\\casa_cambio_back\\Controllers\\MasterController.cs",
+              "RelativeDocumentMoniker": "casa_cambio_back\\Controllers\\MasterController.cs",
+              "ToolTip": "F:\\proyectos\\casa_cambio_back\\casa_cambio_back\\Controllers\\MasterController.cs",
+              "RelativeToolTip": "casa_cambio_back\\Controllers\\MasterController.cs",
+              "ViewState": "AgIAAPQAAAAAAAAAAAAuwAYBAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T19:20:02.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "F:\\proyectos\\casa_cambio_back\\casa_cambio_back\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "casa_cambio_back\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "F:\\proyectos\\casa_cambio_back\\casa_cambio_back\\Controllers\\WeatherForecastController.cs*",
-              "RelativeToolTip": "casa_cambio_back\\Controllers\\WeatherForecastController.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAALAAAAAAAAAA==",
+              "ToolTip": "F:\\proyectos\\casa_cambio_back\\casa_cambio_back\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "casa_cambio_back\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-04T16:25:10.81Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "F:\\proyectos\\casa_cambio_back\\casa_cambio_back\\Program.cs",
-              "RelativeDocumentMoniker": "casa_cambio_back\\Program.cs",
-              "ToolTip": "F:\\proyectos\\casa_cambio_back\\casa_cambio_back\\Program.cs",
-              "RelativeToolTip": "casa_cambio_back\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "F:\\proyectos\\casa_cambio_back\\casa_cambio_back\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "casa_cambio_back\\Controllers\\UserController.cs",
+              "ToolTip": "F:\\proyectos\\casa_cambio_back\\casa_cambio_back\\Controllers\\UserController.cs",
+              "RelativeToolTip": "casa_cambio_back\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T16:11:08.956Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "casa_cambio_back.http",
-              "DocumentMoniker": "F:\\proyectos\\casa_cambio_back\\casa_cambio_back\\casa_cambio_back.http",
-              "RelativeDocumentMoniker": "casa_cambio_back\\casa_cambio_back.http",
-              "ToolTip": "F:\\proyectos\\casa_cambio_back\\casa_cambio_back\\casa_cambio_back.http",
-              "RelativeToolTip": "casa_cambio_back\\casa_cambio_back.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-01-04T16:11:58.21Z",
+              "WhenOpened": "2025-01-05T05:02:46.73Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "EncuestaController.cs",
+              "DocumentMoniker": "F:\\proyectos\\casa_cambio_back\\casa_cambio_back\\Controllers\\EncuestaController.cs",
+              "RelativeDocumentMoniker": "casa_cambio_back\\Controllers\\EncuestaController.cs",
+              "ToolTip": "F:\\proyectos\\casa_cambio_back\\casa_cambio_back\\Controllers\\EncuestaController.cs",
+              "RelativeToolTip": "casa_cambio_back\\Controllers\\EncuestaController.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAD4v1cAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T19:19:36.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PerfilRepository.cs",
+              "DocumentMoniker": "F:\\proyectos\\casa_cambio_back\\casa_cambio_back\\Repositories\\Impl\\PerfilRepository.cs",
+              "RelativeDocumentMoniker": "casa_cambio_back\\Repositories\\Impl\\PerfilRepository.cs",
+              "ToolTip": "F:\\proyectos\\casa_cambio_back\\casa_cambio_back\\Repositories\\Impl\\PerfilRepository.cs",
+              "RelativeToolTip": "casa_cambio_back\\Repositories\\Impl\\PerfilRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwBsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T05:13:44.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UbicacionController.cs",
+              "DocumentMoniker": "F:\\proyectos\\casa_cambio_back\\casa_cambio_back\\Controllers\\UbicacionController.cs",
+              "RelativeDocumentMoniker": "casa_cambio_back\\Controllers\\UbicacionController.cs",
+              "ToolTip": "F:\\proyectos\\casa_cambio_back\\casa_cambio_back\\Controllers\\UbicacionController.cs",
+              "RelativeToolTip": "casa_cambio_back\\Controllers\\UbicacionController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAEAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T19:21:05.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MarcaController.cs",
+              "DocumentMoniker": "F:\\proyectos\\casa_cambio_back\\casa_cambio_back\\Controllers\\MarcaController.cs",
+              "RelativeDocumentMoniker": "casa_cambio_back\\Controllers\\MarcaController.cs",
+              "ToolTip": "F:\\proyectos\\casa_cambio_back\\casa_cambio_back\\Controllers\\MarcaController.cs",
+              "RelativeToolTip": "casa_cambio_back\\Controllers\\MarcaController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAIwEAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T19:19:48.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CuentaController.cs",
+              "DocumentMoniker": "F:\\proyectos\\casa_cambio_back\\casa_cambio_back\\Controllers\\CuentaController.cs",
+              "RelativeDocumentMoniker": "casa_cambio_back\\Controllers\\CuentaController.cs",
+              "ToolTip": "F:\\proyectos\\casa_cambio_back\\casa_cambio_back\\Controllers\\CuentaController.cs",
+              "RelativeToolTip": "casa_cambio_back\\Controllers\\CuentaController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T19:19:21.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CorreoController.cs",
+              "DocumentMoniker": "F:\\proyectos\\casa_cambio_back\\casa_cambio_back\\Controllers\\CorreoController.cs",
+              "RelativeDocumentMoniker": "casa_cambio_back\\Controllers\\CorreoController.cs",
+              "ToolTip": "F:\\proyectos\\casa_cambio_back\\casa_cambio_back\\Controllers\\CorreoController.cs",
+              "RelativeToolTip": "casa_cambio_back\\Controllers\\CorreoController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T19:19:07.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ConsultaOcController.cs",
+              "DocumentMoniker": "F:\\proyectos\\casa_cambio_back\\casa_cambio_back\\Controllers\\ConsultaOcController.cs",
+              "RelativeDocumentMoniker": "casa_cambio_back\\Controllers\\ConsultaOcController.cs",
+              "ToolTip": "F:\\proyectos\\casa_cambio_back\\casa_cambio_back\\Controllers\\ConsultaOcController.cs",
+              "RelativeToolTip": "casa_cambio_back\\Controllers\\ConsultaOcController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T19:18:57.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ConsultaComprobanteController.cs",
+              "DocumentMoniker": "F:\\proyectos\\casa_cambio_back\\casa_cambio_back\\Controllers\\ConsultaComprobanteController.cs",
+              "RelativeDocumentMoniker": "casa_cambio_back\\Controllers\\ConsultaComprobanteController.cs",
+              "ToolTip": "F:\\proyectos\\casa_cambio_back\\casa_cambio_back\\Controllers\\ConsultaComprobanteController.cs",
+              "RelativeToolTip": "casa_cambio_back\\Controllers\\ConsultaComprobanteController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T19:18:41.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\proyectos\\casa_cambio_back\\casa_cambio_back\\Program.cs",
+              "RelativeDocumentMoniker": "casa_cambio_back\\Program.cs",
+              "ToolTip": "F:\\proyectos\\casa_cambio_back\\casa_cambio_back\\Program.cs",
+              "RelativeToolTip": "casa_cambio_back\\Program.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAAAG4AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T16:11:08.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "F:\\proyectos\\casa_cambio_back\\casa_cambio_back\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "casa_cambio_back\\appsettings.Development.json",
+              "ToolTip": "F:\\proyectos\\casa_cambio_back\\casa_cambio_back\\appsettings.Development.json",
+              "RelativeToolTip": "casa_cambio_back\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-05T04:36:04.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "F:\\proyectos\\casa_cambio_back\\casa_cambio_back\\Dockerfile",
+              "RelativeDocumentMoniker": "casa_cambio_back\\Dockerfile",
+              "ToolTip": "F:\\proyectos\\casa_cambio_back\\casa_cambio_back\\Dockerfile",
+              "RelativeToolTip": "casa_cambio_back\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-06T22:39:45.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "casa_cambio_back.http",
+              "DocumentMoniker": "F:\\proyectos\\casa_cambio_back\\casa_cambio_back\\casa_cambio_back.http",
+              "RelativeDocumentMoniker": "casa_cambio_back\\casa_cambio_back.http",
+              "ToolTip": "F:\\proyectos\\casa_cambio_back\\casa_cambio_back\\casa_cambio_back.http",
+              "RelativeToolTip": "casa_cambio_back\\casa_cambio_back.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-01-04T16:11:58.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "F:\\proyectos\\casa_cambio_back\\casa_cambio_back\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "casa_cambio_back\\Properties\\launchSettings.json",
+              "ToolTip": "F:\\proyectos\\casa_cambio_back\\casa_cambio_back\\Properties\\launchSettings.json",
+              "RelativeToolTip": "casa_cambio_back\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-04T16:09:22.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "F:\\proyectos\\casa_cambio_back\\casa_cambio_back\\Repositories\\Impl\\UserRepository.cs",
+              "RelativeDocumentMoniker": "casa_cambio_back\\Repositories\\Impl\\UserRepository.cs",
+              "ToolTip": "F:\\proyectos\\casa_cambio_back\\casa_cambio_back\\Repositories\\Impl\\UserRepository.cs",
+              "RelativeToolTip": "casa_cambio_back\\Repositories\\Impl\\UserRepository.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAIwEYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T05:03:12.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SqlDbContext.cs",
+              "DocumentMoniker": "F:\\proyectos\\casa_cambio_back\\casa_cambio_back\\Config\\SqlDbContext.cs",
+              "RelativeDocumentMoniker": "casa_cambio_back\\Config\\SqlDbContext.cs",
+              "ToolTip": "F:\\proyectos\\casa_cambio_back\\casa_cambio_back\\Config\\SqlDbContext.cs",
+              "RelativeToolTip": "casa_cambio_back\\Config\\SqlDbContext.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAIwEIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T21:18:26.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CatalogoController.cs",
+              "DocumentMoniker": "F:\\proyectos\\casa_cambio_back\\casa_cambio_back\\Controllers\\CatalogoController.cs",
+              "RelativeDocumentMoniker": "casa_cambio_back\\Controllers\\CatalogoController.cs",
+              "ToolTip": "F:\\proyectos\\casa_cambio_back\\casa_cambio_back\\Controllers\\CatalogoController.cs",
+              "RelativeToolTip": "casa_cambio_back\\Controllers\\CatalogoController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwDkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T16:14:17.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "appsettings.Release.json",
+              "DocumentMoniker": "F:\\proyectos\\casa_cambio_back\\casa_cambio_back\\appsettings.Release.json",
+              "RelativeDocumentMoniker": "casa_cambio_back\\appsettings.Release.json",
+              "ToolTip": "F:\\proyectos\\casa_cambio_back\\casa_cambio_back\\appsettings.Release.json",
+              "RelativeToolTip": "casa_cambio_back\\appsettings.Release.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-05T04:36:02.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.Production.json",
+              "DocumentMoniker": "F:\\proyectos\\casa_cambio_back\\casa_cambio_back\\appsettings.Production.json",
+              "RelativeDocumentMoniker": "casa_cambio_back\\appsettings.Production.json",
+              "ToolTip": "F:\\proyectos\\casa_cambio_back\\casa_cambio_back\\appsettings.Production.json",
+              "RelativeToolTip": "casa_cambio_back\\appsettings.Production.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-05T05:02:10.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Util.cs",
+              "DocumentMoniker": "F:\\proyectos\\casa_cambio_back\\casa_cambio_back\\Util\\Util.cs",
+              "RelativeDocumentMoniker": "casa_cambio_back\\Util\\Util.cs",
+              "ToolTip": "F:\\proyectos\\casa_cambio_back\\casa_cambio_back\\Util\\Util.cs",
+              "RelativeToolTip": "casa_cambio_back\\Util\\Util.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T21:14:54.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "tempkey.jwk",
+              "DocumentMoniker": "F:\\proyectos\\casa_cambio_back\\casa_cambio_back\\tempkey.jwk",
+              "RelativeDocumentMoniker": "casa_cambio_back\\tempkey.jwk",
+              "ToolTip": "F:\\proyectos\\casa_cambio_back\\casa_cambio_back\\tempkey.jwk",
+              "RelativeToolTip": "casa_cambio_back\\tempkey.jwk",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-07T21:15:04.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\proyectos\\casa_cambio_back\\casa_cambio_back\\appsettings.json",
+              "RelativeDocumentMoniker": "casa_cambio_back\\appsettings.json",
+              "ToolTip": "F:\\proyectos\\casa_cambio_back\\casa_cambio_back\\appsettings.json",
+              "RelativeToolTip": "casa_cambio_back\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-07T21:14:32.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MasterRepository.cs",
+              "DocumentMoniker": "F:\\proyectos\\casa_cambio_back\\casa_cambio_back\\Repositories\\Impl\\MasterRepository.cs",
+              "RelativeDocumentMoniker": "casa_cambio_back\\Repositories\\Impl\\MasterRepository.cs",
+              "ToolTip": "F:\\proyectos\\casa_cambio_back\\casa_cambio_back\\Repositories\\Impl\\MasterRepository.cs",
+              "RelativeToolTip": "casa_cambio_back\\Repositories\\Impl\\MasterRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T05:13:35.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "casa_cambio_back.csproj",
+              "DocumentMoniker": "F:\\proyectos\\casa_cambio_back\\casa_cambio_back\\casa_cambio_back.csproj",
+              "RelativeDocumentMoniker": "casa_cambio_back\\casa_cambio_back.csproj",
+              "ToolTip": "F:\\proyectos\\casa_cambio_back\\casa_cambio_back\\casa_cambio_back.csproj",
+              "RelativeToolTip": "casa_cambio_back\\casa_cambio_back.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-06T22:44:29.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "EncuestaRepository.cs",
+              "DocumentMoniker": "F:\\proyectos\\casa_cambio_back\\casa_cambio_back\\Repositories\\Impl\\EncuestaRepository.cs",
+              "RelativeDocumentMoniker": "casa_cambio_back\\Repositories\\Impl\\EncuestaRepository.cs",
+              "ToolTip": "F:\\proyectos\\casa_cambio_back\\casa_cambio_back\\Repositories\\Impl\\EncuestaRepository.cs",
+              "RelativeToolTip": "casa_cambio_back\\Repositories\\Impl\\EncuestaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T05:13:08.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "PersonaRepository.cs",
+              "DocumentMoniker": "F:\\proyectos\\casa_cambio_back\\casa_cambio_back\\Repositories\\Impl\\PersonaRepository.cs",
+              "RelativeDocumentMoniker": "casa_cambio_back\\Repositories\\Impl\\PersonaRepository.cs",
+              "ToolTip": "F:\\proyectos\\casa_cambio_back\\casa_cambio_back\\Repositories\\Impl\\PersonaRepository.cs",
+              "RelativeToolTip": "casa_cambio_back\\Repositories\\Impl\\PersonaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T05:13:52.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "F:\\proyectos\\casa_cambio_back\\casa_cambio_back\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "casa_cambio_back\\Controllers\\ClienteController.cs",
+              "ToolTip": "F:\\proyectos\\casa_cambio_back\\casa_cambio_back\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "casa_cambio_back\\Controllers\\ClienteController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T16:14:21.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ProveedorRepository.cs",
+              "DocumentMoniker": "F:\\proyectos\\casa_cambio_back\\casa_cambio_back\\Repositories\\Impl\\ProveedorRepository.cs",
+              "RelativeDocumentMoniker": "casa_cambio_back\\Repositories\\Impl\\ProveedorRepository.cs",
+              "ToolTip": "F:\\proyectos\\casa_cambio_back\\casa_cambio_back\\Repositories\\Impl\\ProveedorRepository.cs",
+              "RelativeToolTip": "casa_cambio_back\\Repositories\\Impl\\ProveedorRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvw8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T05:13:59.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "MarcaRepository.cs",
+              "DocumentMoniker": "F:\\proyectos\\casa_cambio_back\\casa_cambio_back\\Repositories\\Impl\\MarcaRepository.cs",
+              "RelativeDocumentMoniker": "casa_cambio_back\\Repositories\\Impl\\MarcaRepository.cs",
+              "ToolTip": "F:\\proyectos\\casa_cambio_back\\casa_cambio_back\\Repositories\\Impl\\MarcaRepository.cs",
+              "RelativeToolTip": "casa_cambio_back\\Repositories\\Impl\\MarcaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T05:13:14.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "DescargarRepository.cs",
+              "DocumentMoniker": "F:\\proyectos\\casa_cambio_back\\casa_cambio_back\\Repositories\\Impl\\DescargarRepository.cs",
+              "RelativeDocumentMoniker": "casa_cambio_back\\Repositories\\Impl\\DescargarRepository.cs",
+              "ToolTip": "F:\\proyectos\\casa_cambio_back\\casa_cambio_back\\Repositories\\Impl\\DescargarRepository.cs",
+              "RelativeToolTip": "casa_cambio_back\\Repositories\\Impl\\DescargarRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T05:13:19.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UbicacionRepository.cs",
+              "DocumentMoniker": "F:\\proyectos\\casa_cambio_back\\casa_cambio_back\\Repositories\\Impl\\UbicacionRepository.cs",
+              "RelativeDocumentMoniker": "casa_cambio_back\\Repositories\\Impl\\UbicacionRepository.cs",
+              "ToolTip": "F:\\proyectos\\casa_cambio_back\\casa_cambio_back\\Repositories\\Impl\\UbicacionRepository.cs",
+              "RelativeToolTip": "casa_cambio_back\\Repositories\\Impl\\UbicacionRepository.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAwwBsAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T05:14:07.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CuentaRepository.cs",
+              "DocumentMoniker": "F:\\proyectos\\casa_cambio_back\\casa_cambio_back\\Repositories\\Impl\\CuentaRepository.cs",
+              "RelativeDocumentMoniker": "casa_cambio_back\\Repositories\\Impl\\CuentaRepository.cs",
+              "ToolTip": "F:\\proyectos\\casa_cambio_back\\casa_cambio_back\\Repositories\\Impl\\CuentaRepository.cs",
+              "RelativeToolTip": "casa_cambio_back\\Repositories\\Impl\\CuentaRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvwoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T05:13:00.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ClienteRepository.cs",
+              "DocumentMoniker": "F:\\proyectos\\casa_cambio_back\\casa_cambio_back\\Repositories\\Impl\\ClienteRepository.cs",
+              "RelativeDocumentMoniker": "casa_cambio_back\\Repositories\\Impl\\ClienteRepository.cs",
+              "ToolTip": "F:\\proyectos\\casa_cambio_back\\casa_cambio_back\\Repositories\\Impl\\ClienteRepository.cs",
+              "RelativeToolTip": "casa_cambio_back\\Repositories\\Impl\\ClienteRepository.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowA8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T05:12:51.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CatalogoRepository.cs",
+              "DocumentMoniker": "F:\\proyectos\\casa_cambio_back\\casa_cambio_back\\Repositories\\Impl\\CatalogoRepository.cs",
+              "RelativeDocumentMoniker": "casa_cambio_back\\Repositories\\Impl\\CatalogoRepository.cs",
+              "ToolTip": "F:\\proyectos\\casa_cambio_back\\casa_cambio_back\\Repositories\\Impl\\CatalogoRepository.cs",
+              "RelativeToolTip": "casa_cambio_back\\Repositories\\Impl\\CatalogoRepository.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T05:12:36.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
               "Title": "ManagerExceptionHandler.cs",
               "DocumentMoniker": "F:\\proyectos\\casa_cambio_back\\casa_cambio_back\\Exceptions\\ManagerExceptionHandler.cs",
               "RelativeDocumentMoniker": "casa_cambio_back\\Exceptions\\ManagerExceptionHandler.cs",
@@ -109,12 +681,11 @@
               "RelativeToolTip": "casa_cambio_back\\Exceptions\\ManagerExceptionHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T16:14:35.133Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-04T16:14:35.133Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 40,
               "Title": "BadRequestCustomerException.cs",
               "DocumentMoniker": "F:\\proyectos\\casa_cambio_back\\casa_cambio_back\\Exceptions\\BadRequestCustomerException.cs",
               "RelativeDocumentMoniker": "casa_cambio_back\\Exceptions\\BadRequestCustomerException.cs",
@@ -122,12 +693,11 @@
               "RelativeToolTip": "casa_cambio_back\\Exceptions\\BadRequestCustomerException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T16:14:34.39Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-04T16:14:34.39Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 41,
               "Title": "TokenResponseDto.cs",
               "DocumentMoniker": "F:\\proyectos\\casa_cambio_back\\casa_cambio_back\\Dto\\TokenResponseDto.cs",
               "RelativeDocumentMoniker": "casa_cambio_back\\Dto\\TokenResponseDto.cs",
@@ -135,12 +705,11 @@
               "RelativeToolTip": "casa_cambio_back\\Dto\\TokenResponseDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T16:14:30.932Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-04T16:14:30.932Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 42,
               "Title": "ResponseDto.cs",
               "DocumentMoniker": "F:\\proyectos\\casa_cambio_back\\casa_cambio_back\\Dto\\ResponseDto.cs",
               "RelativeDocumentMoniker": "casa_cambio_back\\Dto\\ResponseDto.cs",
@@ -148,73 +717,7 @@
               "RelativeToolTip": "casa_cambio_back\\Dto\\ResponseDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T16:14:30.092Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "LoginBodyDto.cs",
-              "DocumentMoniker": "F:\\proyectos\\casa_cambio_back\\casa_cambio_back\\Dto\\LoginBodyDto.cs",
-              "RelativeDocumentMoniker": "casa_cambio_back\\Dto\\LoginBodyDto.cs",
-              "ToolTip": "F:\\proyectos\\casa_cambio_back\\casa_cambio_back\\Dto\\LoginBodyDto.cs",
-              "RelativeToolTip": "casa_cambio_back\\Dto\\LoginBodyDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T16:14:28.397Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ClienteController.cs",
-              "DocumentMoniker": "F:\\proyectos\\casa_cambio_back\\casa_cambio_back\\Controllers\\ClienteController.cs",
-              "RelativeDocumentMoniker": "casa_cambio_back\\Controllers\\ClienteController.cs",
-              "ToolTip": "F:\\proyectos\\casa_cambio_back\\casa_cambio_back\\Controllers\\ClienteController.cs",
-              "RelativeToolTip": "casa_cambio_back\\Controllers\\ClienteController.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T16:14:21.045Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CatalogoController.cs",
-              "DocumentMoniker": "F:\\proyectos\\casa_cambio_back\\casa_cambio_back\\Controllers\\CatalogoController.cs",
-              "RelativeDocumentMoniker": "casa_cambio_back\\Controllers\\CatalogoController.cs",
-              "ToolTip": "F:\\proyectos\\casa_cambio_back\\casa_cambio_back\\Controllers\\CatalogoController.cs",
-              "RelativeToolTip": "casa_cambio_back\\Controllers\\CatalogoController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T16:14:17.833Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "SqlDbContext.cs",
-              "DocumentMoniker": "F:\\proyectos\\casa_cambio_back\\casa_cambio_back\\Config\\SqlDbContext.cs",
-              "RelativeDocumentMoniker": "casa_cambio_back\\Config\\SqlDbContext.cs",
-              "ToolTip": "F:\\proyectos\\casa_cambio_back\\casa_cambio_back\\Config\\SqlDbContext.cs",
-              "RelativeToolTip": "casa_cambio_back\\Config\\SqlDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T16:10:24.911Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "F:\\proyectos\\casa_cambio_back\\casa_cambio_back\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "casa_cambio_back\\Properties\\launchSettings.json",
-              "ToolTip": "F:\\proyectos\\casa_cambio_back\\casa_cambio_back\\Properties\\launchSettings.json",
-              "RelativeToolTip": "casa_cambio_back\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-04T16:09:22.611Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-04T16:14:30.092Z"
             }
           ]
         }
